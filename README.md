@@ -4,4 +4,12 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/jozmiguel/fullstack-javascript-project-98/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/jozmiguel/fullstack-javascript-project-98/actions)
 
-grabacion de primer juego:  https://asciinema.org/a/MMWSMWk1PNFmbRxmAdzeIUuji
+### grabacion de primer juego:  https://asciinema.org/a/MMWSMWk1PNFmbRxmAdzeIUuji
+
+[![asciicast](https://asciinema.org/a/abc123.png)](https://asciinema.org/a/MMWSMWk1PNFmbRxmAdzeIUuji)
+
+
+### grabacion del segundo juego https://asciinema.org/a/TQqgWXA9A0U6vsrDGsPYCEnng
+
+[![asciicast](https://asciinema.org/a/abc123.png)](https://asciinema.org/a/TQqgWXA9A0U6vsrDGsPYCEnng)
+
