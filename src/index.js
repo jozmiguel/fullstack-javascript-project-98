@@ -26,11 +26,14 @@ const logicaJuego = (description, juegoMental) => {
             } else {
                 console.log(`'${respuestaUsuario}' es una respuesta incorrecta ;(. La respuesta correcta era '${respuestaCorrecta}'`);
                 console.log(`¡Intentémoslo de nuevo, ${userName}!`);
-                partidasGanadas = 0;
+                break;
+                
             }
         } while (partidasGanadas < 3);
 
-    console.log(`¡Felicidades, ${userName}!`);
+    if (partidasGanadas === 3) {
+        console.log(`¡Felicidades, ${userName}!`);
+    }
 };
 
 export default logicaJuego;
