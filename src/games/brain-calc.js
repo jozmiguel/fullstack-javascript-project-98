@@ -29,8 +29,8 @@ const juegoMental = () => {
     return { pregunta, respuestaCorrecta: respuestaCorrecta.toString() };
 };
 
-const startBrainEven = () => {
+const startBrainCalc = () => {
     logicaJuego(description, juegoMental);
 };
 
-export default startBrainEven;logicaJuego(description, juegoMental);
+export default startBrainCalc;logicaJuego(description, juegoMental);

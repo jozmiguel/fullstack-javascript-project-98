@@ -17,5 +17,8 @@
 ### grabacion del tercer juego https://asciinema.org/a/rzy4YIC9AsXrHuxPGUvsVYRw3
 [![asciicast](https://asciinema.org/a/abc123.png)](https://asciinema.org/a/rzy4YIC9AsXrHuxPGUvsVYRw3)
 
-### grabacion del tercer juego https://asciinema.org/a/n9V4egLxKEQ26ggOvxJbOB2Yu
+### grabacion del cuarto juego https://asciinema.org/a/n9V4egLxKEQ26ggOvxJbOB2Yu
 [![asciicast](https://asciinema.org/a/abc123.png)](https://asciinema.org/a/n9V4egLxKEQ26ggOvxJbOB2Yu)
+
+### grabacion del cuarto juego https://asciinema.org/a/r2p1nYp4S1SdpBVIecNZykbFn
+[![asciicast](https://asciinema.org/a/abc123.png)](https://asciinema.org/a/r2p1nYp4S1SdpBVIecNZykbFn)

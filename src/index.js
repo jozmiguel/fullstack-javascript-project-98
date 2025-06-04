@@ -32,7 +32,7 @@ const logicaJuego = (description, juegoMental) => {
         } while (partidasGanadas < 3);
 
     if (partidasGanadas === 3) {
-        console.log(`¡Felicidades, ${userName}!`);
+        return console.log(`¡Felicidades, ${userName}!`);
     }
 };
 
